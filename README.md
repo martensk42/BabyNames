@@ -1,0 +1,1 @@
+This project pulls information about an individual's name. It uses AJAX to pull information dynamically while always showing the user something. It displays information about the origin of the name as well as how many people were born with that name per decade and a list of celebrities who share that name.
