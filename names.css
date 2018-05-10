@@ -1,0 +1,26 @@
+/*	Kyle Martens
+	Section AF
+	homework 9
+
+	*/
+
+body {
+	font-size: 12pt;
+	font-family: Georgia, serif;
+}
+
+q {
+	font-style: italic;
+}
+
+td {
+	vertical-align: bottom;
+	height: 250px;
+	width: 55px;
+}
+
+td > div {
+	background-color: #FFBBBB;
+	width: 50px;
+	text-align: center;
+}
